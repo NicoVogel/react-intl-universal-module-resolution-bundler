@@ -1,0 +1,11 @@
+{
+  "name": "react-intl-universal-module-resolution-bundler",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "react-intl-universal": "^2.7.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

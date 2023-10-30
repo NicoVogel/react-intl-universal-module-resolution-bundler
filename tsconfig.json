@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Bundler",
+    "module": "ES2020",
+    "strict": true,
+  }
+}
